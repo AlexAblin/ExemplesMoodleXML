@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : NumericalResponse.xml
+    Created on : 2016/2/8
+    Author     : 
+    Description:
+        Purpose of the document follows.
+-->
+
+<numericalresponse>
+<question type="numerical question">
+ <answer fraction="100">
+     <text>23</text>
+     <feedback><text>Feedback</text></feedback>
+ </answer>
+</numericalresponse>
